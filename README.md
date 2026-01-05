@@ -1,0 +1,1 @@
+this repo has 2 projects, one is programming fundamentals console based application for finance tracker and advisor and the other is ICT project, a website made using html,css and javascript, both the projects are focussed on the same topic but have different languages used
